@@ -6,10 +6,10 @@ The goal of this project is to develop customer segmentations using purchase/tra
 
 The repository contains the following Python code:
 
-Module 1 - Data Wrangling.ipynb
-Module 2 - Dimensionality Reduction.ipynb
-Module 3 - Principal Component Analysis.ipynb
-Module 5 - Cluster.ipynb
+* Module 1 - Data Wrangling.ipynb
+* Module 2 - Dimensionality Reduction.ipynb
+* Module 3 - Principal Component Analysis.ipynb
+* Module 5 - Cluster.ipynb
 
 The raw data set used for the modules is in project_files/int_online_tx.csv. The data dictionary is called Project-4-Data-Dictionary.pdf
 
